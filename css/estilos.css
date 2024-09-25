@@ -41,6 +41,7 @@ nav {
     margin-right: 1%;
     background-color: rgba(245, 221, 154, 0.836);
     border-radius: 5px;
+    
 }
 nav ul {
     list-style-type: none;
@@ -57,5 +58,27 @@ nav li a {
 nav li a:hover {
     background-color: rgb(245, 221, 154);
     border-radius: 5px;
+}
+
+main{
+    width: 88%;
+    margin-right: 1%;
+}
+section{
+    background-color: rgba(245, 221, 154, 0.836);
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+article{
+    background-color: rgba(245, 221, 154, 0.836);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+footer{
+    width: 100%;
+    background-color: rgba(245, 221, 154, 0.836);
+    margin-top: 1%;
 }
 
